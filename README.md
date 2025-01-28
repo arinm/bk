@@ -15,6 +15,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
 -started with nextjs for SSR but but then I gave up the idea
 -not completed, not what it will need to a stronger project with variables, mixins, just bulk style scss and not very cute
 -used context for store 
